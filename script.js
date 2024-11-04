@@ -31,3 +31,4 @@ function showSection(sectionId) {
         visionSection.style.display = "block";
     }
 }
+
