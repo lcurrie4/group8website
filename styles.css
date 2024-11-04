@@ -1,14 +1,14 @@
 /* General page styling */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    font-family: Palatino, serif;
+    background-color: #6e1b3b;
     margin: 0;
     padding: 0;
 }
 
 /* Header section styling */
 header {
-    background: #333;
+    background: #231d24;
     color: #fff;
     padding: 10px 0;
     text-align: center;
